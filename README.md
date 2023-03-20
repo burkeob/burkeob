@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Burke O'Brien</h1>
 <h3 align="center">Master's of Data Science student at Brown.</h3>
 
-- 🌱 I’m currently learning **Best practices in data science**
+- 🌱 I’m currently learning **deep-learning techniques** for a variety of applications
 
-- 💬 Ask me about **Data-driven public policy, chess openings**
+- 💬 Ask me about **data-driven public policy, chess openings**
 
 - 📫 How to reach me **burkeob@gmail.com**
 
